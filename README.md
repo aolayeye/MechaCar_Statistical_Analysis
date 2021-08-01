@@ -18,3 +18,4 @@
   ##### Model Summary
   ![Model_Summary_mpg](https://user-images.githubusercontent.com/67847583/127756195-1aa62e23-aac7-4953-baf7-42c9791e0869.png)
 
+### Summary Statistics on Suspension Coils
