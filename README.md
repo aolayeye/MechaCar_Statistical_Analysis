@@ -12,7 +12,8 @@
   ![Correlation_Matrix_mpg](https://user-images.githubusercontent.com/67847583/127755537-b623ed64-e410-432b-bf26-a8b0474c73bc.png)
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-- With very small p-values for vehicle length and ground clearance, our model does a good explaining 75% of the relationship between mpg and the predictor variables. we however notice that the vehicle weight, spoiler angle, and AWD variables do not have statistically significant relationship with mpg, judging from their large p-values
+- With very small p-values for vehicle length and ground clearance, our model does a good explaining 75% of the relationship between mpg and the predictor variables. we however notice that the vehicle weight, spoiler angle, and AWD variables do not have statistically significant relationship with mpg, judging from their large p-values.
+- Also, we notice that AWD is binary variable, thus we may want to consider a logistic regression between mpg and AWD.
 
   ##### Model Summary
   ![Model_Summary_mpg](https://user-images.githubusercontent.com/67847583/127756195-1aa62e23-aac7-4953-baf7-42c9791e0869.png)
