@@ -24,3 +24,7 @@
   ##### Total Summary Variance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lot Summary Variance
   ![Total_Summary](https://user-images.githubusercontent.com/67847583/127760140-b4c5c799-83a7-4976-8e63-15f705c36f69.png)
   ![Total_Summary](https://user-images.githubusercontent.com/67847583/127760177-be79f2cb-b442-4f16-a518-697dcb297ac0.png)
+
+### T-Tests on Suspension Coils
+1. Determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
+2. Determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
