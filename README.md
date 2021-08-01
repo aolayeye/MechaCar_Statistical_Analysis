@@ -7,7 +7,7 @@
 #### Is the slope of the linear model considered to be zero? Why or why not?
 - From the equation of the linear model, given as:
 
-  mpg = 6.26713(vehicle_length) + 0.00125(vehicle_weight) + 0.06877(spoiler_angle) + 3.54553(ground_clearance) - 3.41150(AWD) - 103.96398, we see that all coefficients of our predictor varaiables are non-zero, therefore the slope of our linear model is non-zero.
+  mpg = 6.26713(vl) + 0.00125(vw) + 0.06877(sa) + 3.54553(gc) - 3.41150(AWD) - 103.96398, we see that all coefficients of our predictor varaiables are non-zero, therefore the slope of our linear model is non-zero.
 - The coefficients of our predictor variables is further explained by our correlation matrix where we see very weak to moderate correlation between our predictor variables and mpg
 
 ##### Correlation Matrix
