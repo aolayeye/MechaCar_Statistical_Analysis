@@ -1,6 +1,11 @@
 # MechaCar_Statistical_Analysis
 ## Overview
-The MecharCar statistical analysis reviews vehicle manufacturing data to generate insights that can help the production team stay  
+The MecharCar statistical analysis reviews vehicle manufacturing data to generate insights that can help the production team stay ahead of the competition. To generate insights for the production team, we would perform the following:
+
+* Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+* Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+* Run t-tests to determine if the manufacturing lots are statistically different from the mean population
+* Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 ### Linear Regression to Predict MPG
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
    * From the output of the linear model, we see that vehicle length and ground clearance has the highest impact on predicting mpg with very small p-values, a unit change in any one of these two variables results in a 6.267128 and 3.545534 increase in mpg respectively keeping all other factors constant
