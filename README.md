@@ -52,3 +52,5 @@
   ![t_test_Lot3_vs_Population](https://user-images.githubusercontent.com/67847583/127928375-bc5b3612-e636-4996-870b-264d2d06891d.png)
 
 ## Study Design: MechaCar vs Competition.
+Since our study design seeks to improve MecharCar against competition, we would look to study metrics such as cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+#### Research Question
