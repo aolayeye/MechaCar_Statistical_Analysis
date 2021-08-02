@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 ## Overview
-The MecharCar statistical analysis reviews vehicle manufacturing data to generate insights that can help the production team stay ahead of the competition. To generate insights for the production team, we would perform the following:
+The MecharCar statistical analysis project applies statistical analysis to vehicle manufacturing data to generate insights that can help the production team stay ahead of the competition. To generate insights for the production team, we would perform the following:
 
 * Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
 * Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
