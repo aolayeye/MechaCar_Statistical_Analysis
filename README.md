@@ -48,3 +48,6 @@
 
   ##### T-Tests Summary [Lot 3 Mean versus Population Mean]
   ![t_test_Lot3_vs_Population](https://user-images.githubusercontent.com/67847583/127918934-527d2553-7c10-4e18-95b1-e98099f1a113.png)
+
+
+## Study Design: MechaCar vs Competition.
