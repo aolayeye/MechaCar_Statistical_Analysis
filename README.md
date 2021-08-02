@@ -43,3 +43,8 @@
 
   ##### T-Tests Summary [Lot 2 Mean versus Population Mean]
   ![t_test_Lot2_vs_Population](https://user-images.githubusercontent.com/67847583/127918404-a5e2e9e7-1f82-4b54-a083-5ddaae03f0dd.png)
+
+- Lot 3: Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+
+  ##### T-Tests Summary [Lot 3 Mean versus Population Mean]
+  ![t_test_Lot3_vs_Population](https://user-images.githubusercontent.com/67847583/127918934-527d2553-7c10-4e18-95b1-e98099f1a113.png)
