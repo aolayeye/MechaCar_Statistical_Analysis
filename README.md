@@ -27,6 +27,7 @@
 
 ### T-Tests on Suspension Coils
 1. Determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
+  
   ##### T-Tests Summary [Sample Mean versus Population Mean]
   ![t_test_All_Lots_vs_Population](https://user-images.githubusercontent.com/67847583/127917200-5d1870f7-f619-45fc-ba9f-e6ffca2a063c.png)
 
