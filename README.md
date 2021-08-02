@@ -54,8 +54,8 @@
 ## Study Design: MechaCar vs Competition.
 Since our study design seeks to improve MecharCar against competition, we would look to study metrics such as cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 1. Research Question
-- Are there differences average city or highway fuel effiency between MecharCar vehicles and competition vehicles?
+  - Are there differences average city or highway fuel effiency between MecharCar vehicles and competition vehicles?
 2. Forming Our Hypothesis
-- Null Hyothesis: There is no difference between average city or highway fuel efficiency between MecharCar and Competition vehicles
-- Alternative Hypothesis: There is difference between average city or highway fuel efficiency between MecharCar and Competition vehicles
+  - Null Hyothesis: There is no difference between average city or highway fuel efficiency between MecharCar and Competition vehicles
+  - Alternative Hypothesis: There is difference between average city or highway fuel efficiency between MecharCar and Competition vehicles
 3. Statistical Test
