@@ -27,9 +27,10 @@
 
 ### T-Tests on Suspension Coils
 1. Determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
+- Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar. 
   
   ##### T-Tests Summary [Sample Mean versus Population Mean]
   ![t_test_All_Lots_vs_Population](https://user-images.githubusercontent.com/67847583/127917200-5d1870f7-f619-45fc-ba9f-e6ffca2a063c.png)
 
-- Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar. 
+
 3. Determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
