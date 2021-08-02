@@ -33,4 +33,9 @@
   ![t_test_All_Lots_vs_Population](https://user-images.githubusercontent.com/67847583/127917200-5d1870f7-f619-45fc-ba9f-e6ffca2a063c.png)
 
 
-3. Determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
+2. Determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
+- Assuming our significance level was the common 0.05 percent, our p-value is below our significance level. Therefore, we have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
+
+  ##### T-Tests Summary [Lot 1 Mean versus Population Mean]
+  ![t_test_Lot1_vs_Population](https://user-images.githubusercontent.com/67847583/127918110-f97e38db-e251-4ca9-af8b-2b73deaf1549.png)
+
