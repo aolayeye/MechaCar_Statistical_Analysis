@@ -34,8 +34,12 @@
 
 
 2. Determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
-- Assuming our significance level was the common 0.05 percent, our p-value is below our significance level. Therefore, we have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
+- Lot 1: Assuming our significance level was the common 0.05 percent, our p-value is below our significance level. Therefore, we have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
 
   ##### T-Tests Summary [Lot 1 Mean versus Population Mean]
   ![t_test_Lot1_vs_Population](https://user-images.githubusercontent.com/67847583/127918110-f97e38db-e251-4ca9-af8b-2b73deaf1549.png)
 
+- Lot 2: Assuming our significance level was the common 0.05 percent, our p-value is below our significance level. Therefore, we have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
+
+  ##### T-Tests Summary [Lot 2 Mean versus Population Mean]
+  ![t_test_Lot2_vs_Population](https://user-images.githubusercontent.com/67847583/127918404-a5e2e9e7-1f82-4b54-a083-5ddaae03f0dd.png)
