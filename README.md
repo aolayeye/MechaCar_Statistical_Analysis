@@ -30,24 +30,25 @@
 - Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar. 
   
   ##### T-Tests Summary [Sample Mean versus Population Mean]
-  ![t_test_All_Lots_vs_Population](https://user-images.githubusercontent.com/67847583/127917200-5d1870f7-f619-45fc-ba9f-e6ffca2a063c.png)
+  ![t_test_All_Lots_vs_Population](https://user-images.githubusercontent.com/67847583/127927867-e1ca64c2-0ab8-43d0-918d-7c798c1fe8f1.png)
 
-
+ 
 2. Determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
-- Lot 1: Assuming our significance level was the common 0.05 percent, our p-value is below our significance level. Therefore, we have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
+- Lot 1: Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
   ##### T-Tests Summary [Lot 1 Mean versus Population Mean]
-  ![t_test_Lot1_vs_Population](https://user-images.githubusercontent.com/67847583/127918110-f97e38db-e251-4ca9-af8b-2b73deaf1549.png)
+  ![t_test_Lot1_vs_Population](https://user-images.githubusercontent.com/67847583/127928070-5dd3004e-008a-4430-8a8b-ad3c3e962418.png)
 
-- Lot 2: Assuming our significance level was the common 0.05 percent, our p-value is below our significance level. Therefore, we have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
+
+- Lot 2: Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
   ##### T-Tests Summary [Lot 2 Mean versus Population Mean]
-  ![t_test_Lot2_vs_Population](https://user-images.githubusercontent.com/67847583/127918404-a5e2e9e7-1f82-4b54-a083-5ddaae03f0dd.png)
+  ![t_test_Lot2_vs_Population](https://user-images.githubusercontent.com/67847583/127928247-b60c5fc3-5622-4131-9bea-d6f2cc1d3873.png)
 
-- Lot 3: Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+
+- Lot 3: Assuming our significance level was the common 0.05 percent, our p-value is below our significance level. Therefore, we have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
 
   ##### T-Tests Summary [Lot 3 Mean versus Population Mean]
-  ![t_test_Lot3_vs_Population](https://user-images.githubusercontent.com/67847583/127918934-527d2553-7c10-4e18-95b1-e98099f1a113.png)
-
+  ![t_test_Lot3_vs_Population](https://user-images.githubusercontent.com/67847583/127928375-bc5b3612-e636-4996-870b-264d2d06891d.png)
 
 ## Study Design: MechaCar vs Competition.
