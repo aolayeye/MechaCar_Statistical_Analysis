@@ -64,7 +64,7 @@ Since our study design seeks to improve MecharCar against competition, we would 
    - Null Hyothesis: There is no difference between average city or highway fuel efficiency between MecharCar and Competition vehicles
    - Alternative Hypothesis: There is difference between average city or highway fuel efficiency between MecharCar and Competition vehicles
 3. Statistical Test
-   - Since we are dealing with dichotomous data, (sample A vs Sample B), and our dependent variable (city or highway fuel efficiency) is continous, we would employ the Two-sample t-test to evaluate if there are differences in fuel effieciency between MecharCar and competition
+   - Since we are dealing with dichotomous data, (sample A vs Sample B), and our dependent variable (city or highway fuel efficiency) is continous, we would employ the Two-sample t-test to evaluate if there are differences in fuel effieciency between MecharCar and competition vehicles
 4. Data Requirement
    - Sample A: sufficiently large MecharCar sample data set of fuel efficiency
    - Sample B: sufficiently large competition sample data set of fuel efficiency
